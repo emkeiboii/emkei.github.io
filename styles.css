@@ -292,9 +292,13 @@ hr{
     font-weight: 700;
   }
 
+    .downloadcv{
+    top: 100vh;
+  }
+  
   .downloadcv p{
     font-size: 2em;
-    top: 28%;
+    top: 26%;
   }
 
   .downloadcv img{
